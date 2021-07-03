@@ -1,0 +1,8 @@
+Eje_2
+PROCESO
+Buscar una entrada
+Entrar
+Repetir
+	Avanzar
+Hasta que		Encontra una entrada
+FIN DEL PROCESO

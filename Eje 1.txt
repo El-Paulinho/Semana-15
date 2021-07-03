@@ -1,0 +1,26 @@
+Eje_1
+PROCESO
+Avanzar de frente hasta llegar a la pared
+Girar a la derecha
+Avanzar hasta llegar a la pared
+Girar a la izquierda
+Avanzar
+Luego girar a la izquierda
+Avanzar hasta llegar a la pared
+Girar a la derecha
+Avanzar hasta llegar a la 2da calle
+Luego girar a la derecha
+Avanzar hasta llegar a la pared
+Luego girar a la derecha
+Avanzar hasta llegar a la pared
+Girar a la derecha
+Avanzar hasta llegar a la pared
+Luego girar a la izquierda
+Avanzar hasta llegar a la pared
+Luego girar a la derecha
+Avanzar hasta llegar a la pared
+Girar hacia la derecha
+Avanzar hasta llegar a la pared
+Girar a la derecha
+Salir del laberinto
+FIN DEL PROCESO
